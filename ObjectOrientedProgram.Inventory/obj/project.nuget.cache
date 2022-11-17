@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/1ZkUUF5kKxHZcQy7q8+NALlK5kUZjP+YSMzK0N2rMKrqIkBHKyYULKkYFVwnMq5uyjxe30hEyiEsgKSXr63w==",
+  "success": true,
+  "projectFilePath": "D:\\Bridgelabs\\ObjectOrientedProgram.Inventory\\ObjectOrientedProgram.Inventory\\ObjectOrientedProgram.Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
